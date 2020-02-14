@@ -19,6 +19,8 @@ environment:
 dependencies:
   flutter_modular: ^0.5.0
   graphql: ^3.0.0
+  bloc_pattern: ^2.5.1
+  rxdart: ^0.23.1
   flutter:
     sdk: flutter
 
